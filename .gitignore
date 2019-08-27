@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+*.pyc
+*.npy
+*.pkl
+*.meta
+*.ckpt
+checkpoint
+*.local
+*.csv
+__pycache__
